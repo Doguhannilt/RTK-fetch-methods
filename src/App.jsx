@@ -1,8 +1,9 @@
+import AllProducts from "./components/AllProducts"
 
 function App() {
   return (
     <>
-      HELLO
+      <AllProducts />
     </>
   )
 }
